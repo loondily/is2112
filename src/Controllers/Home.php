@@ -1,13 +1,13 @@
 <?php
-
 namespace Controllers;
 
-use Templates\HomeTemplate;
+use Views\HomeTemplate;
+
 class Home {
     public function get(): string 
-        {
-            $objTemplate = new HomeTemplate();
-            $template = $objTemplate->getHomeTemplate();
-            return $template;
-        }
+    {
+        $objTemplate = new HomeTemplate();
+        $template = $objTemplate->getHomeTemplate();
+        return $template;
     }
+}
