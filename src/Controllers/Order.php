@@ -26,8 +26,8 @@ class Order {
                 $mail->Password   = 'hF8xTWxXyKcCnEg1n9Wz';
                 $mail->Port       = 465;
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-                $mail->Subject = 'Заявка с сайта: Суши Таун';
-                $mail->Body = 'Информационное сообщение c сайта Суши Таун <br><br>
+                $mail->Subject = 'Заявка с сайта: KULL42';
+                $mail->Body = 'Информационное сообщение c сайта KULL42 <br><br>
                 ------------------------------------------<br>
                 <br>
                 Спасибо!<br>

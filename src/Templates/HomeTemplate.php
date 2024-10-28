@@ -32,19 +32,19 @@ class HomeTemplate extends BaseTemplate {
         <div id="carouselExample" class="carousel slide">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="./img/smetana.png" class="d-block w-100 h-100" alt="1">
+              <img src="./img/main.jpg" class="d-block w-100 h-100" alt="1">
             </div>
             <div class="carousel-item">
-              <img src="./img/eggs.png" class="d-block w-100 h-100" alt="3">
+              <img src="./img/main2.jpeg" class="d-block w-100 h-100" alt="3">
             </div>
             <div class="carousel-item">
-              <img src="./img/kolbasa.png" class="d-block w-100 h-100" alt="2">
+              <img src="./img/main.jpg" class="d-block w-100 h-100" alt="2">
             </div>
             <div class="carousel-item">
-              <img src="./img/mandms.png" class="d-block w-100 h-100" alt="4">
+              <img src="./img/main.jpg" class="d-block w-100 h-100" alt="4">
             </div>
             <div class="carousel-item">
-              <img src="./img/doshik.png" class="d-block w-100 h-100" alt="5">
+              <img src="./img/main.jpg" class="d-block w-100 h-100" alt="5">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -61,7 +61,7 @@ class HomeTemplate extends BaseTemplate {
     
         <div class="row mt-5">
             <p>
-                Приветствуем вас в нашем Интернет Магазине "iMarket"!
+                Приветствуем вас в нашем ресторане KULL42!
             </p>
             <p>
                 Листайте каталог и добавляйте товар в корзину, нажимая кнопку "Купить".

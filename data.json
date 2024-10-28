@@ -1,42 +1,42 @@
 [
     {
         "id": 11, 
-        "name": "Сметана Простоквашино", 
-        "description": "",
-        "image": ".\/img\/smetana.png",
-        "weigth": 100, 
-        "price": 70
+        "name": "Сырные палочки", 
+        "description": "Подаются с соусом BBQ.",
+        "image": ".\/img\/palochki.jpg",
+        "weigth": 220, 
+        "price": 269
     },
     {
         "id": 12,
-        "name": "Яйца С1",
-        "description": "",
-        "image": ".\/img\/eggs.png",
-        "weigth": 250,
-        "price": 120
+        "name": "Том Ян с морепродуктами",
+        "description": "Подается с креветками.",
+        "image": ".\/img\/tomyan.png",
+        "weigth": 220,
+        "price": 235
     },
     {
         "id": 13,
-        "name": "Колбаса",
-        "description": "",
-        "image": ".\/img\/kolbasa.png",
+        "name": "Куриный бульон",
+        "description": "Подается с ржаными гренками и добавкой на ваш выбор.",
+        "image": ".\/img\/bulyon.jpeg",
         "weigth": 200,
-        "price": 140
+        "price": 340
     },
     {
         "id": 14,
-        "name": "Драже M&Ms",
-        "description": "",
-        "image": ".\/img\/mandms.png",
+        "name": "Бургер с бифштексом",
+        "description": "Подается на сене из картофеля",
+        "image": ".\/img\/burger.png",
         "weigth": 100,
         "price": 150
     },
     {
         "id": 15,
-        "name": "Лапша Доширак",
+        "name": "Карбонара",
         "description": "",
-        "image": ".\/img\/doshik.png",
+        "image": ".\/img\/karbonara.jpeg",
         "weigth": 120,
-        "price": 40
+        "price": 730
     }
 ]
