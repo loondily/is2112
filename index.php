@@ -1,9 +1,10 @@
-<?php
-use Routers\Router;
+<?php  
+  require_once("./vendor/autoload.php");
+	use Routers\Router;
+	
+	$router = new Router();
+	$url = $_SERVER['REQUEST_URI'];
 
-require_once("./vendor/autoload.php");
+	echo $router->route($url);
 
-$router = new Router();
-$url = $_SERVER['REQUEST_URI'];
-
-echo $router->route($url);
+	
